@@ -1,5 +1,5 @@
 
-[![](https://github.com/billowcode/BrainGames/workflows/CI/badge.svg)](https://github.com/billowCode/BrainGames/actions)
+[![](https://github.com/billowcode/BrainGames/workflows/Test-Brain-Games/badge.svg)](https://github.com/billowCode/BrainGames/actions)
 
 <a href="https://asciinema.org/a/344870" target="_blank"><img src="https://asciinema.org/a/344870.svg" /></a>
 
